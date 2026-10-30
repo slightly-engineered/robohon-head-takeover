@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Robohon AutoSkip</string>
+    <string name="service_description">Automatically presses Skip on Robohon startup screen.</string>
+</resources>
