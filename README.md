@@ -1,4 +1,4 @@
-# RoBoHoN OG Head
+# RoBoHoN Original Head (pico projector, Android selfie camera)
 
 <img width="260" alt="Salvaged RoBoHoN head on the bench, wired to RoBoHoN's back screen showing the install prompt for the ProjTest app" src="docs/images/projtest-install-on-head.webp" />
 <img width="260" alt="The head's built-in projector showing the ProjTest app on a wall: PROJECTOR ON, TAP TO TURN OFF" src="docs/images/projector-on.webp" />
