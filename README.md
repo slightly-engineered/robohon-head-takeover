@@ -1,5 +1,7 @@
 # RoBoHoN OG Head
 
+<img width="400" alt="Salvaged RoBoHoN head on the bench, wired to RoBoHoN's back screen showing the install prompt for the ProjTest app" src="docs/images/projtest-install-on-head.webp" />
+
 Brings a salvaged RoBoHoN head back to life as a standalone unit: an Android
 app that takes over RoBoHoN's own Android board (home screen, camera,
 projector, colour-blob tracking), plus ESP32 firmware that drives the head's
