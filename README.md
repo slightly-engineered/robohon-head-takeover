@@ -1,6 +1,8 @@
 # RoBoHoN OG Head
 
-<img width="400" alt="Salvaged RoBoHoN head on the bench, wired to RoBoHoN's back screen showing the install prompt for the ProjTest app" src="docs/images/projtest-install-on-head.webp" />
+<img width="260" alt="Salvaged RoBoHoN head on the bench, wired to RoBoHoN's back screen showing the install prompt for the ProjTest app" src="docs/images/projtest-install-on-head.webp" />
+<img width="260" alt="The head's built-in projector showing the ProjTest app on a wall: PROJECTOR ON, TAP TO TURN OFF" src="docs/images/projector-on.webp" />
+<img width="260" alt="The head's projector showing the ProjTest calibration pattern on a wall: corner markers, crosshair circle and 854 x 854 label" src="docs/images/projector-test-pattern.webp" />
 
 Brings a salvaged RoBoHoN head back to life as a standalone unit: an Android
 app that takes over RoBoHoN's own Android board (home screen, camera,
